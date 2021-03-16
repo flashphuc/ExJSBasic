@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+.modal-body {
+    width: 50%;
+    margin: 0 auto;
+}
+.form-button {
+    text-align: center;
+    display: flex !important;
+    justify-content: center;
+}
+.table-danhSachNhanVien {
+    width: 70%;
+    margin: 0 auto;
+}
+.sp-thongbao{
+    color: red;
+}
